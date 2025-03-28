@@ -1,0 +1,23 @@
+# 🚀 Face Recognition Attendance System
+
+## 📌 **Project Overview**
+A face recognition-based attendance system that uses the MERN stack with Python DeepFace integration. The system captures students' faces, checks them against the database, and marks attendance accordingly.
+
+## 🛠️ **Tech Stack**
+- **Frontend:** React.js  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB Atlas  
+- **Face Recognition:** Python (DeepFace)
+
+## 🔥 **Features**
+- 📸 **Face Capture:** Capture and send images from the frontend.  
+- 🔍 **Face Recognition:** Match faces against the database.  
+- ✅ **Attendance:** Mark attendance based on recognized faces.  
+- 👩‍🏫 **Admin Panel:** Teachers can view and manage attendance data.  
+
+## 🚀 **How to Run**
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/bhavesh-tembhurkar/face-recognition-attendance.git
+
+
